@@ -1,4 +1,4 @@
-module github.com/Tyler-Dinh/z2api-go
+module github.com/Tylerx404/z2api-go
 
 go 1.21
 

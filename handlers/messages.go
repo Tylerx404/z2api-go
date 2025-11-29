@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Tyler-Dinh/z2api-go/config"
-	"github.com/Tyler-Dinh/z2api-go/services"
-	"github.com/Tyler-Dinh/z2api-go/utils"
+	"github.com/Tylerx404/z2api-go/config"
+	"github.com/Tylerx404/z2api-go/services"
+	"github.com/Tylerx404/z2api-go/utils"
 )
 
 // AnthropicMessages handles Anthropic-compatible messages endpoint

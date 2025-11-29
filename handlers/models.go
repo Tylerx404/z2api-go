@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Tyler-Dinh/z2api-go/services"
-	"github.com/Tyler-Dinh/z2api-go/types"
+	"github.com/Tylerx404/z2api-go/services"
+	"github.com/Tylerx404/z2api-go/types"
 )
 
 // ModelsHandler handles model listing requests

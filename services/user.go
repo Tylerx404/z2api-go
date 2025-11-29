@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Tyler-Dinh/z2api-go/config"
-	"github.com/Tyler-Dinh/z2api-go/types"
+	"github.com/Tylerx404/z2api-go/config"
+	"github.com/Tylerx404/z2api-go/types"
 )
 
 // UserService handles user authentication and caching
