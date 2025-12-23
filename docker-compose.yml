@@ -11,5 +11,5 @@ services:
       - DEBUG=false
       - DEBUG_MSG=false
       - THINK_TAGS_MODE=reasoning
-      - MODEL=glm-4.6
+      - MODEL=glm-4.7
     restart: unless-stopped
